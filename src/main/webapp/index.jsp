@@ -1,5 +1,6 @@
 <html>
 <body>
-<h3><marquee>Hello Jenkins World! Leave us early </marquee></h3>
+<h3><marquee>Hello Jenkins World! </marquee></h3>
+<img src="Forward.jpg"/>
 </body>
 </html>
